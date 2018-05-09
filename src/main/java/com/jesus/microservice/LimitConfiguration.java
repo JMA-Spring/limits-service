@@ -1,5 +1,6 @@
 package com.jesus.microservice;
 
+// este es un bean, osea un POJO que se ve a regresar
 public class LimitConfiguration {
 	private int maximum;
 	private int minimum;
